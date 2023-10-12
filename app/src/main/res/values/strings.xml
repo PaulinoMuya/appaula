@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppAula</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="userandemail">Username/E-mail</string>
+    <string name="login">Login</string>
+    <string name="register">Sign up</string>
+
+</resources>
